@@ -1,0 +1,17 @@
+{
+  "name": "ActivTrak",
+  "version": "1.0.0",
+  "description": "Code challenge",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node tests.mjs",
+    "dev": "node index.mjs"
+  },
+  "type":"module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
